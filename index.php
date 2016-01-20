@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>SA22</p>
+<?php echo "hi everybody"; ?>
 </body>
 </html>
